@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "268365360397",
+    "firebase_url": "https://scape-f8f41-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "scape-f8f41",
+    "storage_bucket": "scape-f8f41.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:268365360397:android:4d61ac3d6815765b245444",
+        "android_client_info": {
+          "package_name": "com.company.scape"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "268365360397-gq0s91bgobcqesnv1dd35ts4vpd9ai8e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcmhHAnMuImDQrau_bgxf5aQhU-w1kgEo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "268365360397-gq0s91bgobcqesnv1dd35ts4vpd9ai8e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
